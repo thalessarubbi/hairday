@@ -1,0 +1,6 @@
+# Enviroment
+.vscode
+
+# Code
+node_modules
+dist
