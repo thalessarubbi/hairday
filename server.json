@@ -1,3 +1,19 @@
 {
-  "schedules": []
+  "schedules": [
+    {
+      "id": "1743812916268",
+      "name": "Giovani Menegat",
+      "when": "2025-04-04T15:00:00.000Z"
+    },
+    {
+      "id": "1743819866326",
+      "name": "Julia Fagundes",
+      "when": "2025-04-05T21:00:00.000Z"
+    },
+    {
+      "id": "1743819885703",
+      "name": "Thales Sarubbi",
+      "when": "2025-04-05T12:00:00.000Z"
+    }
+  ]
 }
